@@ -1,3 +1,4 @@
 com\example\myapp\MyappApplication.class
 com\example\myapp\Person.class
+com\example\myapp\TestController.class
 com\example\myapp\PersonController.class
